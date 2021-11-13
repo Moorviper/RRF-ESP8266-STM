@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 591 591" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path id="pcb-outline" d="M540.834,536.119L546.531,45.22L102.157,45.22L102.157,109.787L16.701,109.787L16.701,465.855L102.157,465.855L102.157,536.119L540.834,536.119Z" style="stroke:black;stroke-width:1px;"/>
+    <g id="package">
+        <rect id="package1" serif:id="package" x="182.91" y="132.575" width="347.1" height="314.83" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+        <g id="text">
+            <g transform="matrix(0.73,0,0,1,107.364,0)">
+                <text x="397.645px" y="430.685px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.168px;fill:rgb(140,124,65);">FC</text>
+            </g>
+            <g id="ce">
+                <path d="M250.499,323.94C188.33,349.557 193.075,402.351 249.017,421.601" style="fill:none;stroke:rgb(140,124,65);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+                <g transform="matrix(1,0,0,1,75.6112,0)">
+                    <path d="M250.499,323.94C188.33,349.557 193.075,402.351 249.017,421.601" style="fill:none;stroke:rgb(140,124,65);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+                </g>
+                <path d="M317.215,373.049L281.093,373.049" style="fill:none;stroke:rgb(140,124,65);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <path d="M207.875,289.47L504.019,289.47" style="fill:none;stroke:rgb(140,124,65);stroke-width:25px;stroke-linecap:square;stroke-miterlimit:1.3;stroke-dasharray:0,1.25,0,0;stroke-dashoffset:25;"/>
+            <g transform="matrix(1,0,0,1,0,-37.435)">
+                <path d="M207.875,289.47L504.019,289.47" style="fill:none;stroke:rgb(140,124,65);stroke-width:25px;stroke-linecap:square;stroke-miterlimit:1.3;stroke-dasharray:0,1.25,0,0;stroke-dashoffset:25;"/>
+            </g>
+            <g transform="matrix(0.607722,0,0,0.753337,55.9379,-110.579)">
+                <text x="397.645px" y="430.685px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.168px;fill:rgb(140,124,65);">ESP-12S</text>
+            </g>
+            <g id="logo">
+                <g transform="matrix(0.405055,0,0,0.753337,46.8541,-109.851)">
+                    <text x="397.645px" y="430.685px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.168px;fill:rgb(140,124,65);">A</text>
+                </g>
+                <path d="M242.911,212.359L242.911,185.246L251.426,178.124" style="fill:none;stroke:rgb(140,124,65);stroke-width:3.96px;stroke-miterlimit:1.3;stroke-dasharray:0,0.2,0,0;stroke-dashoffset:3.96;"/>
+                <circle cx="231.706" cy="195.242" r="33.794" style="fill:none;stroke:rgb(140,124,65);stroke-width:3.96px;stroke-linecap:square;stroke-miterlimit:1.3;stroke-dasharray:0,0.2,0,0;stroke-dashoffset:3.96;"/>
+            </g>
+        </g>
+    </g>
+    <path id="antenna" d="M123.996,132.575L33.792,132.575L33.792,179.101L88.864,179.101L88.864,235.123L33.792,235.123L33.792,287.19L88.864,287.19L88.864,342.622L33.792,342.622L33.792,438.319L123.996,438.319L33.792,438.319L33.792,392.743L123.996,392.743" style="fill:none;stroke:rgb(189,173,113);stroke-width:14.58px;"/>
+    <g id="LED">
+        <rect x="139.498" y="125.235" width="30.621" height="73.421" style="fill:none;stroke:white;stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+        <g id="LED-2" serif:id="LED 2" transform="matrix(8.36682e-17,1.36641,-1.48903,9.11766e-17,2499.14,-1924.95)">
+            <g id="pin" transform="matrix(2.55719e-16,1.48744,-1.03538,3.69017e-16,75.8828,5243.66)">
+                <rect x="-2471.55" y="-1420.67" width="9.436" height="37.744" style="fill:rgb(153,153,153);stroke:black;stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+            </g>
+            <g id="pin1" serif:id="pin" transform="matrix(3.04706e-16,1.48744,-0.729174,2.82274e-16,505.351,5243.66)">
+                <rect x="-2471.55" y="-1420.67" width="9.436" height="37.744" style="fill:rgb(139,15,0);stroke:black;stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+            </g>
+            <g id="pin2" serif:id="pin" transform="matrix(2.37311e-16,1.15701,-0.5658,2.19206e-16,734.368,4428.54)">
+                <rect x="-2471.55" y="-1420.67" width="9.436" height="37.744" style="fill:rgb(167,15,0);stroke:black;stroke-width:0.39px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+            </g>
+            <g id="pin3" serif:id="pin" transform="matrix(1.66536e-16,0.853707,-0.457915,1.72254e-16,885.603,3680.35)">
+                <rect x="-2471.55" y="-1420.67" width="9.436" height="37.744" style="fill:rgb(205,21,0);stroke:black;stroke-width:0.39px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+            </g>
+            <g id="pin4" serif:id="pin" transform="matrix(8.81494e-17,0.473489,-0.273874,1.0071e-16,1143.59,2742.42)">
+                <rect x="-2471.55" y="-1420.67" width="9.436" height="37.744" style="fill:rgb(243,27,0);stroke:black;stroke-width:0.39px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+            </g>
+        </g>
+    </g>
+    <g id="inner">
+        <g>
+            <g transform="matrix(1.38265e-16,2.25805,-2.31443,1.41718e-16,878.421,-402.465)">
+                <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:3.19px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.41421;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,55.0408,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,102.311,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,144.517,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,190.437,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,233.656,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,277.888,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,320.431,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,4.91728,-361.429)">
+            <g transform="matrix(1,0,0,1,55.0408,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,13.3605,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,102.311,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,144.517,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,190.437,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,233.656,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,277.888,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,320.431,400.991)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+        </g>
+    </g>
+    <g id="outer">
+        <g>
+            <g transform="matrix(1.38265e-16,2.25805,-2.31443,1.41718e-16,810.892,-803.456)">
+                <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:3.19px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.41421;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,55.0408,0)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-0.516073,0)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,111.675,0)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,167.637,0)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,227.59,0)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,284.689,0)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,338.576,0)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1,56.0408,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-0.516073,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-56.2277,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,111.675,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,167.637,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,227.59,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,284.689,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,338.576,440.037)">
+                <circle cx="186.171" cy="71.164" r="13.228" style="fill:rgb(189,173,113);stroke:rgb(88,73,38);stroke-width:5.42px;stroke-miterlimit:1.3;"/>
+            </g>
+        </g>
+    </g>
+    <g id="text-bottom" serif:id="text bottom" transform="matrix(1,0,0,1,0,538.036)">
+        <g transform="matrix(0.317125,0,0,0.223895,298.111,17.37)">
+            <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+            <rect x="433.098" y="26.939" width="236.479" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,129.356,0)">
+                <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0CTS</text>
+            </g>
+            <g transform="matrix(0.73,0,0,1,116.936,0)">
+                <text x="433.098px" y="92.648px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI</text>
+            </g>
+            <g transform="matrix(0.73,0,0,1,149.578,0)">
+                <text x="553.993px" y="92.648px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">MOSI</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,240.681,17.4335)">
+            <rect x="493.545" y="-52.229" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+            <rect x="493.545" y="26.939" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,133.257,0)">
+                <text x="493.545px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI</text>
+            </g>
+            <g transform="matrix(0.73,0,0,1,133.257,0)">
+                <text x="493.545px" y="92.648px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">MISO</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,-47.8356,17.5753)">
+            <rect x="435.753" y="-52.229" width="231.169" height="79.168" style="fill:rgb(255,227,37);"/>
+            <g transform="matrix(0.73,0,0,1,117.653,0)">
+                <text x="435.753px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">EXT_RSTB</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,67.6943,17.5753)">
+            <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(255,227,37);"/>
+            <rect x="479.097" y="26.939" width="144.481" height="79.168" style="fill:rgb(255,227,37);"/>
+            <g transform="matrix(0.73,0,0,1,121.554,0)">
+                <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">CHIP_EN</text>
+            </g>
+            <g transform="matrix(0.73,0,0,1,129.356,0)">
+                <text x="479.097px" y="92.648px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">CH_PD</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,8.33973,18.2282)">
+            <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(54,130,103);"/>
+            <g transform="matrix(0.73,0,0,1,137.158,0)">
+                <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">ADC</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,179.803,17.4335)">
+            <rect x="493.545" y="-52.229" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+            <rect x="507.993" y="26.939" width="86.689" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,133.257,0)">
+                <text x="493.545px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI</text>
+            </g>
+            <g transform="matrix(0.73,0,0,1,137.158,0)">
+                <text x="507.993px" y="92.648px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">CLK</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,350.725,17.37)">
+            <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(123,43,33);"/>
+            <g transform="matrix(0.73,0,0,1,137.158,0)">
+                <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;fill:white;">VCC</text>
+            </g>
+        </g>
+    </g>
+    <g id="text-upper" serif:id="text upper">
+        <g transform="matrix(0.317125,0,0,0.223895,298.111,17.37)">
+            <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(174,209,239);"/>
+            <rect x="479.097" y="26.939" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,121.554,0)">
+                <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI CS</text>
+            </g>
+            <g transform="matrix(0.73,0,0,1,129.356,0)">
+                <text x="479.097px" y="92.648px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0RTS</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,240.404,35.0908)">
+            <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,129.356,0)">
+                <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U1TXD</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,-47.8356,17.5753)">
+            <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(174,209,239);"/>
+            <rect x="479.097" y="26.939" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,121.554,0)">
+                <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">SPI_CS1</text>
+            </g>
+            <g transform="matrix(0.73,0,0,1,129.356,0)">
+                <text x="479.097px" y="92.648px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0TXD</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,8.33973,35.0908)">
+            <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,129.356,0)">
+                <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0RXD</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,179.709,35.0908)">
+            <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(174,209,239);"/>
+            <g transform="matrix(0.73,0,0,1,121.554,0)">
+                <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">SPI_CS2</text>
+            </g>
+        </g>
+        <g transform="matrix(0.317125,0,0,0.223895,350.725,34.2326)">
+            <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(123,43,33);"/>
+            <g transform="matrix(0.73,0,0,1,137.158,0)">
+                <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;fill:white;">GND</text>
+            </g>
+        </g>
+    </g>
+</svg>
