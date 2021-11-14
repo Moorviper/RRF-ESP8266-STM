@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 591 591" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.931908,0,0,0.913089,-376.737,-866)">
+        <g id="text-right" serif:id="text right" transform="matrix(1.07307,0,0,1.09518,376.998,1111.78)">
+            <g transform="matrix(0.317125,0,0,0.223895,340.154,280.113)">
+                <rect x="435.753" y="-52.229" width="231.169" height="79.168" style="fill:rgb(255,227,37);"/>
+                <g transform="matrix(0.73,0,0,1,117.653,0)">
+                    <text x="435.753px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">EXT_RSTB</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,317.418,242.649)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(54,130,103);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">ADC</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,336.068,205.146)">
+                <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(255,227,37);"/>
+                <g transform="matrix(0.73,0,0,1,121.554,0)">
+                    <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">CHIP_EN</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,394.143,205.146)">
+                <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(255,227,37);"/>
+                <g transform="matrix(0.73,0,0,1,129.356,0)">
+                    <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">CH_PD</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,322.34,129.262)">
+                <rect x="493.545" y="-52.229" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,133.257,0)">
+                    <text x="493.545px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,357.067,129.262)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">CLK</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,322.34,91.9365)">
+                <rect x="493.545" y="-52.229" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,133.257,0)">
+                    <text x="493.545px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,361.905,91.9365)">
+                <rect x="493.545" y="-52.229" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,133.257,0)">
+                    <text x="493.545px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">MISO</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,405.759,54.4778)">
+                <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,129.356,0)">
+                    <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0CTS</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,361.905,54.4778)">
+                <rect x="493.545" y="-52.229" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,133.257,0)">
+                    <text x="493.545px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">MOSI</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,322.34,54.4778)">
+                <rect x="493.545" y="-52.229" width="115.585" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,133.257,0)">
+                    <text x="493.545px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,318.345,17.4478)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(123,43,33);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;fill:white;">VCC</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(6.12323e-17,1.02061,-0.979806,6.12323e-17,1235.62,170.545)">
+            <g id="Pfostenleiste" transform="matrix(1.00807,0,0,1,275.763,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste1" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,235.403,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste2" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,195.008,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste3" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,154.613,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste4" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,114.217,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste5" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,73.8223,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste6" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,33.4271,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste7" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,-6.96805,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(255,6,0);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(224,164,163);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(241,54,50);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(238,104,101);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+        </g>
+        <g id="text-left" serif:id="text left" transform="matrix(1.07307,0,0,1.09518,321.753,962.795)">
+            <g transform="matrix(0.317125,0,0,0.223895,-58.7732,417.2)">
+                <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,121.554,0)">
+                    <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">SPI_CS1</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,0.694058,417.001)">
+                <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,129.356,0)">
+                    <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0TXD</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,0.694058,379.755)">
+                <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,129.356,0)">
+                    <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0RXD</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,-8.19473,267.045)">
+                <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,121.554,0)">
+                    <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">SPI_CS2</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,0.694058,227.761)">
+                <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,129.356,0)">
+                    <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U1TXD</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,-58.9015,190.657)">
+                <rect x="450.201" y="-52.229" width="202.273" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,121.554,0)">
+                    <text x="450.201px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">HSPI CS</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,0.968969,190.657)">
+                <rect x="479.097" y="-52.229" width="144.481" height="79.168" style="fill:rgb(174,209,239);"/>
+                <g transform="matrix(0.73,0,0,1,129.356,0)">
+                    <text x="479.097px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">U0RTS</text>
+                </g>
+            </g>
+            <g transform="matrix(0.317125,0,0,0.223895,9.85776,153.41)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(123,43,33);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;fill:white;">GND</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(6.05677e-17,1.00953,-0.981717,6.13518e-17,936.5,181.148)">
+            <g id="Pfostenleiste8" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,-7.40326,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste9" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,33.4323,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste10" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,74.2679,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste11" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,115.103,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste12" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,155.939,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste13" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,196.775,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste14" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,237.61,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Pfostenleiste15" serif:id="Pfostenleiste" transform="matrix(1.00807,0,0,1,278.446,0)">
+                <g transform="matrix(5.88944e-17,0.961819,-0.966757,5.91968e-17,1221.53,7.97138)">
+                    <rect x="381.477" y="287.99" width="11.716" height="12.521" style="fill:rgb(7,7,7);stroke:rgb(12,12,12);stroke-width:0.77px;"/>
+                </g>
+                <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                <g transform="matrix(5.95487e-17,-0.972504,1.00808,6.17269e-17,553.113,1291.78)">
+                    <path d="M957.1,361L943.312,374.408L930.766,374.438L917.028,361L957.1,361" style="fill:rgb(23,22,20);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(5.96227e-17,0.973713,-1.00808,6.17269e-17,1321.02,-531.923)">
+                    <path d="M957.1,361L943.329,374.408L930.799,374.438L917.028,361L957.1,361" style="fill:rgb(14,13,12);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1874.13,761.018)">
+                    <path d="M957.1,361L943.553,374.409L930.545,374.409L917.028,361L957.1,361" style="fill:rgb(19,18,16);stroke:rgb(12,12,12);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1130.81)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">GND</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,447.184,1171.6)">
+                <rect x="421.305" y="-52.229" width="260.066" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,113.752,0)">
+                    <text x="421.305px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PB12(CS2)</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1212.86)">
+                <rect x="507.993" y="-52.229" width="57.792" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">NC</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1254.15)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PD7</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1294.9)">
+                <rect x="507.993" y="-52.229" width="115.585" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PD10</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1335.65)">
+                <rect x="507.993" y="-52.229" width="57.792" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">NC</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1376.4)">
+                <rect x="507.993" y="-52.229" width="231.169" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PD8(TX3)</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1417.15)">
+                <rect x="507.993" y="-52.229" width="231.169" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PD9(TX3)</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,213.769,0)">
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1130.81)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">3V3</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1171.6)">
+                <rect x="305.72" y="-52.229" width="288.962" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,82.5445,0)">
+                    <text x="305.72px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PC3(MOSI2)</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1212.86)">
+                <rect x="305.72" y="-52.229" width="288.962" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,82.5445,0)">
+                    <text x="305.72px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PC2(MISO2)</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1254.15)">
+                <rect x="305.72" y="-52.229" width="288.962" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,82.5445,0)">
+                    <text x="305.72px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PB13(SCK2)</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1294.9)">
+                <rect x="536.89" y="-52.229" width="57.792" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,144.96,0)">
+                    <text x="536.89px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">NC</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1335.65)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PG8</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1376.4)">
+                <rect x="536.89" y="-52.229" width="57.792" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,144.96,0)">
+                    <text x="536.89px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">NC</text>
+                </g>
+            </g>
+            <g transform="matrix(0.340297,0,0,0.245206,418.211,1417.15)">
+                <rect x="507.993" y="-52.229" width="86.689" height="79.168" style="fill:rgb(159,159,159);"/>
+                <g transform="matrix(0.73,0,0,1,137.158,0)">
+                    <text x="507.993px" y="13.48px" style="font-family:'UbuntuMono-Regular', 'Ubuntu Mono', monospace;font-size:79.168px;">PG7</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
